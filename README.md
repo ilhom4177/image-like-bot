@@ -64,3 +64,8 @@ this project is a bot that can count the number of likes on a post on instagram 
 ├── db.py
 ├── db.json
 ```
+
+- `bot.py` is the main file that will be run to start the bot.
+- `worker.py` is the file that will be run by the scheduler to like the posts.
+- `db.py` is the file that contains the database functions.
+- `db.json` is the database file.
