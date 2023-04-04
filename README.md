@@ -50,3 +50,16 @@ this project is a bot that can count the number of likes on a post on instagram 
             }
         }
     }```
+
+### project file structure
+
+```bash
+.
+├── README.md
+├── .gitignore
+├── bot.py
+├── worker.py
+├── requirements.txt
+├── db.py
+├── db.json
+```
